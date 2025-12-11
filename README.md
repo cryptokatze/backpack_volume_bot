@@ -38,7 +38,7 @@ cd path/to/backpack_auto_vol
 프로젝트 폴더 안에서 아래를 실행합니다.
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 ```
 
 - macOS / Linux:
