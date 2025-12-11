@@ -1,0 +1,31 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ===== Virtual Environments =====
+.venv/
+venv/
+env/
+
+# ===== Environment Secrets =====
+.env
+.env.*
+!.env.example
+*.secret
+*.key
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+
+# ===== VS Code =====
+.vscode/*
+!.vscode/settings.json
+
+# ===== WSL / Linux =====
+.cache/
